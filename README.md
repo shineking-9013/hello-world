@@ -1,2 +1,2 @@
 # hello-world
-The first repository of mine:sun:
+The first repository of mine :sun:
